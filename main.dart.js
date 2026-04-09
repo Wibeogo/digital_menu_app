@@ -47920,7 +47920,7 @@ if(p.c!=null)p.a0(new A.aAv(p,o))
 case 1:return A.q(q,r)}})
 return A.r($async$zD,r)},
 gGS(){var s=$.jt().a,r=s==null?null:s.a.c.a.a
-return"https://wibeogo.github.io/digital_menu_app/menu/"+(r==null?"":r)},
+return"https://wibeogo.github.io/digital_menu_app/#/menu/"+(r==null?"":r)},
 yG(){var s=0,r=A.t(t.H),q=this
 var $async$yG=A.o(function(a,b){if(a===1)return A.p(b,r)
 while(true)switch(s){case 0:s=2
